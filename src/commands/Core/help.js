@@ -173,7 +173,7 @@ export async function createInitialHelpMenu(client) {
         .setStyle(ButtonStyle.Link);
 
     const touchpointButton = new ButtonBuilder()
-        .setLabel("Learn from Touchpoint")
+        .setLabel("Join Us")
         .setURL("https://www.youtube.com/@GamerBoyDRK")
         .setStyle(ButtonStyle.Link);
 
